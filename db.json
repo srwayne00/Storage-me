@@ -1,0 +1,12 @@
+{
+  "products": [
+    
+    {
+      "nome": "Padawan",
+      "descricao": "Best Project",
+      "preco": "10000.00",
+      "codigo": "1",
+      "id": 4
+    }
+  ]
+}
